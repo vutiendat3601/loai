@@ -66,16 +66,16 @@
     {
         "name": "CoTam_009",
         "image": "CoTam_009.jpg",
-        "cost": 11000,
-        "quantity": 200,
+        "cost": 15000,
+        "quantity": 0,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
     {
         "name": "CoTam_010",
         "image": "CoTam_010.jpg",
-        "cost": 11000,
-        "quantity": 200,
+        "cost": 18000,
+        "quantity": 0,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
@@ -83,47 +83,47 @@
         "name": "CoTam_011",
         "image": "CoTam_011.jpg",
         "cost": 11000,
-        "quantity": 200,
+        "quantity": 600,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
     {
         "name": "CoTam_012",
         "image": "CoTam_012.jpg",
-        "cost": 11000,
-        "quantity": 200,
+        "cost": 0,
+        "quantity": 0,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
     {
         "name": "CoTam_013",
         "image": "CoTam_013.jpg",
-        "cost": 11000,
-        "quantity": 200,
+        "cost": 15000,
+        "quantity": 0,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
     {
         "name": "CoTam_014",
         "image": "CoTam_014.jpg",
-        "cost": 11000,
-        "quantity": 200,
+        "cost": 15000,
+        "quantity": 300,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
     {
         "name": "CoTam_015",
         "image": "CoTam_015.jpg",
-        "cost": 11000,
-        "quantity": 200,
-        "quantityUnit": "pcs",
+        "cost": 30000,
+        "quantity": 0,
+        "quantityUnit": "set",
         "status": "ON THE GO"
     },
     {
         "name": "CoTam_016",
         "image": "CoTam_016.jpg",
-        "cost": 11000,
-        "quantity": 200,
+        "cost": 15000,
+        "quantity": 500,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
@@ -131,14 +131,14 @@
         "name": "CoTam_017",
         "image": "CoTam_017.jpg",
         "cost": 11000,
-        "quantity": 200,
+        "quantity": 3500,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
     {
         "name": "CoTam_018",
         "image": "CoTam_018.jpg",
-        "cost": 11000,
+        "cost": 15000,
         "quantity": 200,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
@@ -146,23 +146,23 @@
     {
         "name": "CoTam_019",
         "image": "CoTam_019.jpg",
-        "cost": 11000,
-        "quantity": 200,
+        "cost": 10000,
+        "quantity": 1000,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
     {
         "name": "CoTam_020",
         "image": "CoTam_020.jpg",
-        "cost": 11000,
-        "quantity": 200,
+        "cost": 7000,
+        "quantity": 1000,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
     {
         "name": "CoTam_021",
         "image": "CoTam_021.jpg",
-        "cost": 11000,
+        "cost": 10000,
         "quantity": 200,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
@@ -170,16 +170,128 @@
     {
         "name": "CoTam_022",
         "image": "CoTam_022.jpg",
-        "cost": 11000,
-        "quantity": 200,
+        "cost": 7000,
+        "quantity": 400,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
     {
         "name": "CoTam_023",
         "image": "CoTam_023.jpg",
+        "cost": 10000,
+        "quantity": 1000,
+        "quantityUnit": "pcs",
+        "status": "ON THE GO"
+    },
+    {
+        "name": "CoTam_024",
+        "image": "CoTam_024.jpg",
+        "cost": 9000,
+        "quantity": 300,
+        "quantityUnit": "pcs",
+        "status": "ON THE GO"
+    },
+    {
+        "name": "CoTam_025",
+        "image": "CoTam_025.jpg",
+        "cost": 11000,
+        "quantity": 1000,
+        "quantityUnit": "pcs",
+        "status": "ON THE GO"
+    },
+    {
+        "name": "CoTam_026",
+        "image": "CoTam_026.jpg",
+        "cost": 35000,
+        "quantity": 500,
+        "quantityUnit": "pcs",
+        "status": "ON THE GO"
+    },
+    {
+        "name": "CoTam_027",
+        "image": "CoTam_027.jpg",
+        "cost": 7000,
+        "quantity": 35000,
+        "quantityUnit": "pcs",
+        "status": "ON THE GO"
+    },
+    {
+        "name": "CoTam_028",
+        "image": "CoTam_028.jpg",
+        "cost": 40000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ON THE GO"
+    },
+    {
+        "name": "CoTam_029",
+        "image": "CoTam_029.jpg",
+        "cost": 15000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ON THE GO"
+    },
+    {
+        "name": "CoTam_030",
+        "image": "CoTam_030.jpg",
+        "cost": 17000,
+        "quantity": 1000,
+        "quantityUnit": "pcs",
+        "status": "ON THE GO"
+    },
+    {
+        "name": "CoTam_031",
+        "image": "CoTam_031.jpg",
+        "cost": 15000,
+        "quantity": 200,
+        "quantityUnit": "pcs",
+        "status": "ON THE GO"
+    },
+    {
+        "name": "CoTam_032",
+        "image": "CoTam_032.jpg",
+        "cost": 30000,
+        "quantity": 2000,
+        "quantityUnit": "pcs",
+        "status": "ON THE GO"
+    },
+    {
+        "name": "CoTam_033",
+        "image": "CoTam_033.jpg",
         "cost": 11000,
         "quantity": 200,
+        "quantityUnit": "pcs",
+        "status": "ON THE GO"
+    },
+    {
+        "name": "CoTam_034",
+        "image": "CoTam_034.jpg",
+        "cost": 12000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ON THE GO"
+    },
+    {
+        "name": "CoTam_035",
+        "image": "CoTam_035.jpg",
+        "cost": 40000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ON THE GO"
+    },
+    {
+        "name": "CoTam_036",
+        "image": "CoTam_036.jpg",
+        "cost": 20000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ON THE GO"
+    },
+    {
+        "name": "CoTam_037",
+        "image": "CoTam_037.jpg",
+        "cost": 20000,
+        "quantity": 150,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     }
