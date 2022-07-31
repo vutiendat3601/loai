@@ -18,31 +18,31 @@
     {
         "name": "CoTam_003",
         "image": "CoTam_003.jpg",
-        "cost": 11000,
-        "quantity": 200,
+        "cost": 10000,
+        "quantity": 300,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
     {
         "name": "CoTam_004",
         "image": "CoTam_004.jpg",
-        "cost": 11000,
-        "quantity": 200,
+        "cost": 10000,
+        "quantity": 400,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
     {
         "name": "CoTam_005",
         "image": "CoTam_005.jpg",
-        "cost": 11000,
-        "quantity": 200,
+        "cost": 30000,
+        "quantity": 0,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
     {
         "name": "CoTam_006",
         "image": "CoTam_006.jpg",
-        "cost": 11000,
+        "cost": 15000,
         "quantity": 200,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
@@ -51,15 +51,15 @@
         "name": "CoTam_007",
         "image": "CoTam_007.jpg",
         "cost": 11000,
-        "quantity": 200,
+        "quantity": 300,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
     {
         "name": "CoTam_008",
         "image": "CoTam_008.jpg",
-        "cost": 11000,
-        "quantity": 200,
+        "cost": 12000,
+        "quantity": 1000,
         "quantityUnit": "pcs",
         "status": "ON THE GO"
     },
