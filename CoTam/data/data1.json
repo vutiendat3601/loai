@@ -35,7 +35,7 @@
         "name": "CoTam_005",
         "image": "CoTam_005.jpg",
         "cost": 30000,
-        "quantity": 0,
+        "quantity": 400,
         "quantityUnit": "pcs",
         "status": "ONGOING"
     },
@@ -67,7 +67,7 @@
         "name": "CoTam_009",
         "image": "CoTam_009.jpg",
         "cost": 15000,
-        "quantity": 0,
+        "quantity": 5000,
         "quantityUnit": "pcs",
         "status": "ONGOING"
     },
