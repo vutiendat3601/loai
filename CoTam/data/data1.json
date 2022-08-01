@@ -5,7 +5,7 @@
         "cost": 11000,
         "quantity": 200,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_002",
@@ -13,7 +13,7 @@
         "cost": 20000,
         "quantity": 100,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_003",
@@ -21,7 +21,7 @@
         "cost": 10000,
         "quantity": 300,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_004",
@@ -29,7 +29,7 @@
         "cost": 10000,
         "quantity": 400,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_005",
@@ -37,7 +37,7 @@
         "cost": 30000,
         "quantity": 0,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_006",
@@ -45,7 +45,7 @@
         "cost": 15000,
         "quantity": 200,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_007",
@@ -53,7 +53,7 @@
         "cost": 11000,
         "quantity": 300,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_008",
@@ -61,7 +61,7 @@
         "cost": 12000,
         "quantity": 1000,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_009",
@@ -69,7 +69,7 @@
         "cost": 15000,
         "quantity": 0,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_010",
@@ -77,7 +77,7 @@
         "cost": 18000,
         "quantity": 0,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_011",
@@ -85,7 +85,7 @@
         "cost": 11000,
         "quantity": 600,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_012",
@@ -93,7 +93,7 @@
         "cost": 0,
         "quantity": 0,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_013",
@@ -101,7 +101,7 @@
         "cost": 15000,
         "quantity": 0,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_014",
@@ -109,7 +109,7 @@
         "cost": 15000,
         "quantity": 300,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_015",
@@ -117,7 +117,7 @@
         "cost": 30000,
         "quantity": 0,
         "quantityUnit": "set",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_016",
@@ -125,7 +125,7 @@
         "cost": 15000,
         "quantity": 500,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_017",
@@ -133,7 +133,7 @@
         "cost": 11000,
         "quantity": 3500,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_018",
@@ -141,7 +141,7 @@
         "cost": 15000,
         "quantity": 200,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_019",
@@ -149,7 +149,7 @@
         "cost": 10000,
         "quantity": 1000,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "TO DO"
     },
     {
         "name": "CoTam_020",
@@ -157,7 +157,7 @@
         "cost": 7000,
         "quantity": 1000,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_021",
@@ -165,7 +165,7 @@
         "cost": 10000,
         "quantity": 200,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "TO DO"
     },
     {
         "name": "CoTam_022",
@@ -173,7 +173,7 @@
         "cost": 7000,
         "quantity": 400,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_023",
@@ -181,7 +181,7 @@
         "cost": 10000,
         "quantity": 1000,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_024",
@@ -189,7 +189,7 @@
         "cost": 9000,
         "quantity": 300,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_025",
@@ -197,7 +197,7 @@
         "cost": 11000,
         "quantity": 1000,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_026",
@@ -205,7 +205,7 @@
         "cost": 35000,
         "quantity": 500,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_027",
@@ -213,7 +213,7 @@
         "cost": 7000,
         "quantity": 35000,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_028",
@@ -221,7 +221,7 @@
         "cost": 40000,
         "quantity": 0,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_029",
@@ -229,7 +229,7 @@
         "cost": 15000,
         "quantity": 0,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_030",
@@ -237,7 +237,7 @@
         "cost": 17000,
         "quantity": 1000,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_031",
@@ -245,7 +245,7 @@
         "cost": 15000,
         "quantity": 200,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_032",
@@ -253,7 +253,7 @@
         "cost": 30000,
         "quantity": 2000,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_033",
@@ -261,7 +261,7 @@
         "cost": 11000,
         "quantity": 200,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_034",
@@ -269,7 +269,7 @@
         "cost": 12000,
         "quantity": 0,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "TO DO"
     },
     {
         "name": "CoTam_035",
@@ -277,7 +277,7 @@
         "cost": 40000,
         "quantity": 0,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "ONGOING"
     },
     {
         "name": "CoTam_036",
@@ -285,7 +285,7 @@
         "cost": 20000,
         "quantity": 0,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "DONE"
     },
     {
         "name": "CoTam_037",
@@ -293,6 +293,6 @@
         "cost": 20000,
         "quantity": 150,
         "quantityUnit": "pcs",
-        "status": "ON THE GO"
+        "status": "DONE"
     }
 ]

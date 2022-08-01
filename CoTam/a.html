@@ -1,0 +1,43 @@
+var totalAmount = 0
+                    var len = Object.keys(data).length;
+                    for (var i = 0; i < len; i++) {
+                        var formatter = new Intl.NumberFormat('en-US')
+
+                        var name = data[i].name
+                        var image = `image/${data[i].image}`
+                        var cost = data[i].cost
+                        var quantity = data[i].quantity
+                        var total = cost * quantity
+                        var quantityUnit = data[i].quantityUnit
+                        totalAmount += total;
+                        console.log(totalAmount)
+                        var status = data[i].status
+
+                        var statusColor = ""
+                        if (status === "ON THE GO") {
+                            statusColor = "text-info"
+                        } else if (status === "TO DO") {
+                            statusColor = "text-danger"
+                        } else if (status === "DONE") {
+                            statusColor = "text-success"
+                        }
+
+                        cost = formatter.format(cost)
+                        total = formatter.format(total)
+
+                        var content = `<div class="container mt-5 mb-5">
+                    <div class="row d-flex align-items-center justify-content-center border-5">
+                        <div class="col-md-6"><div class="card"><div class="d-flex justify-content-between p-2 px-3">
+                            <div class="d-flex flex-row align-items-center">
+                                <div class="d-flex flex-column ml-2"><span class="font-weight-bold">${name}</span></div></div></div>
+                                <img src="${image}" class="img-fluid">
+                                <div class="p-1">
+                                    <p class="text-justify">Name: ${name}</p>
+                                    <p class="text-justify">Quantity: ${quantity} ${quantityUnit}</p>
+                                    <p class="text-justify">Cost: ${cost} VND</p>
+                                    <p class="text-justify">Total: ${total} VND</p>
+                                    <p class="text-justify ">Status: <span class="${statusColor}"> ${status}</span></p></div></div></div></div></div>`
+                        body.append(content)
+                    }
+                    console.log(totalAmount)
+                    $("#totalAmount").text(`${formatter.format(totalAmount)} VND`)
