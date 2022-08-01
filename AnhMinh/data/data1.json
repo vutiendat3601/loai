@@ -1,0 +1,114 @@
+[
+    {
+        "name": "AnhMinh_001",
+        "image": "AnhMinh_001.jpg",
+        "cost": 35000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhMinh_002",
+        "image": "AnhMinh_002.jpg",
+        "cost": 35000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhMinh_003",
+        "image": "AnhMinh_003.jpg",
+        "cost": 32000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhMinh_004",
+        "image": "AnhMinh_004.jpg",
+        "cost": 35000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhMinh_005",
+        "image": "AnhMinh_005.jpg",
+        "cost": 12000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhMinh_006",
+        "image": "AnhMinh_006.jpg",
+        "cost": 12000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhMinh_007",
+        "image": "AnhMinh_007.jpg",
+        "cost": 12000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhMinh_008",
+        "image": "AnhMinh_008.jpg",
+        "cost": 12000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhMinh_009",
+        "image": "AnhMinh_009.jpg",
+        "cost": 12000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhMinh_010",
+        "image": "AnhMinh_010.jpg",
+        "cost": 0,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhMinh_011",
+        "image": "AnhMinh_011.jpg",
+        "cost": 11000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhMinh_012",
+        "image": "AnhMinh_012.jpg",
+        "cost": 25000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhMinh_013",
+        "image": "AnhMinh_013.jpg",
+        "cost": 22000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhMinh_014",
+        "image": "AnhMinh_014.jpg",
+        "cost": 12000,
+        "quantity": 3000,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    }
+]
