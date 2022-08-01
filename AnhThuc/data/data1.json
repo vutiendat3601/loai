@@ -125,7 +125,7 @@
         "cost": 30000,
         "quantity": 1300,
         "quantityUnit": "pcs",
-        "status": "ONGOING"
+        "status": "DONE"
     },
     {
         "name": "AnhThuc_017",
