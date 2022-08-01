@@ -85,7 +85,7 @@
         "cost": 40000,
         "quantity": 6000,
         "quantityUnit": "pcs",
-        "status": "ONGOING"
+        "status": "TO DO"
     },
     {
         "name": "AnhThuc_012",
@@ -101,7 +101,7 @@
         "cost": 24000,
         "quantity": 6060,
         "quantityUnit": "pcs",
-        "status": "ONGOING"
+        "status": "TO DO"
     },
     {
         "name": "AnhThuc_014",
