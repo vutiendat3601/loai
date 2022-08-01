@@ -51,7 +51,7 @@
         "name": "AnhThuc_007",
         "image": "AnhThuc_007.jpg",
         "cost": 19000,
-        "quantity": 0,
+        "quantity": 18000,
         "quantityUnit": "pcs",
         "status": "ONGOING"
     },
@@ -91,7 +91,7 @@
         "name": "AnhThuc_012",
         "image": "AnhThuc_012.jpg",
         "cost": 11000,
-        "quantity": 0,
+        "quantity": 12000,
         "quantityUnit": "pcs",
         "status": "ONGOING"
     },
@@ -107,7 +107,7 @@
         "name": "AnhThuc_014",
         "image": "AnhThuc_014.jpg",
         "cost": 18000,
-        "quantity": 0,
+        "quantity": 1800,
         "quantityUnit": "pcs",
         "status": "ONGOING"
     },
