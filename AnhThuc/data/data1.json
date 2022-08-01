@@ -1,0 +1,146 @@
+[
+    {
+        "name": "AnhThuc_001",
+        "image": "AnhThuc_001.jpg",
+        "cost": 17000,
+        "quantity": 3000,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_002",
+        "image": "AnhThuc_002.jpg",
+        "cost": 15000,
+        "quantity": 10000,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_003",
+        "image": "AnhThuc_003.jpg",
+        "cost": 17000,
+        "quantity": 3000,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_004",
+        "image": "AnhThuc_004.jpg",
+        "cost": 17000,
+        "quantity": 3000,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_005",
+        "image": "AnhThuc_005.jpg",
+        "cost": 17000,
+        "quantity": 3000,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_006",
+        "image": "AnhThuc_006.jpg",
+        "cost": 20000,
+        "quantity": 16000,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_007",
+        "image": "AnhThuc_007.jpg",
+        "cost": 19000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_008",
+        "image": "AnhThuc_008.jpg",
+        "cost": 20000,
+        "quantity": 16000,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_009",
+        "image": "AnhThuc_009.jpg",
+        "cost": 25000,
+        "quantity": 7500,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_010",
+        "image": "AnhThuc_010.jpg",
+        "cost": 25000,
+        "quantity": 7500,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_011",
+        "image": "AnhThuc_011.jpg",
+        "cost": 40000,
+        "quantity": 6000,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_012",
+        "image": "AnhThuc_012.jpg",
+        "cost": 11000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_013",
+        "image": "AnhThuc_013.jpg",
+        "cost": 24000,
+        "quantity": 6060,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_014",
+        "image": "AnhThuc_014.jpg",
+        "cost": 18000,
+        "quantity": 0,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_015",
+        "image": "AnhThuc_015.jpg",
+        "cost": 30000,
+        "quantity": 7000,
+        "quantityUnit": "set",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_016",
+        "image": "AnhThuc_016.jpg",
+        "cost": 30000,
+        "quantity": 1300,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_017",
+        "image": "AnhThuc_017.jpg",
+        "cost": 30000,
+        "quantity": 6500,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    },
+    {
+        "name": "AnhThuc_018",
+        "image": "AnhThuc_018.jpg",
+        "cost": 27000,
+        "quantity": 2000,
+        "quantityUnit": "pcs",
+        "status": "ONGOING"
+    }
+]
